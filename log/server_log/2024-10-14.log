@@ -1,0 +1,17 @@
+{"asctime": "Mon Oct 14 11:38:51 2024", "level": "INFO", "file": "signal_handler.c", "line": "10", "message": "Server stopped listening", "activity": "server_listen", "event": "end"}
+{"asctime": "Mon Oct 14 11:11:01 2024", "level": "DEBUG", "file": "handle_client.c", "line": "7", "message": "Handle client", "activity": "handle_client", "event": "start"}
+{"asctime": "Mon Oct 14 11:11:01 2024", "level": "DEBUG", "file": "handle_client.c", "line": "14", "message": "receiving username", "activity": "receive_username", "event": "start"}
+{"asctime": "Mon Oct 14 11:09:31 2024", "level": "DEBUG", "file": "server.c", "line": "26", "message": "Create server socket", "activity": "server_socket_creation", "event": "start"}
+{"asctime": "Mon Oct 14 11:09:31 2024", "level": "INFO", "file": "server.c", "line": "34", "message": "Successfully created server socket", "activity": "server_socket_creation", "event": "end"}
+{"asctime": "Mon Oct 14 11:09:31 2024", "level": "INFO", "file": "server.c", "line": "37", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Mon Oct 14 11:09:31 2024", "level": "INFO", "file": "server.c", "line": "41", "message": "Set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Mon Oct 14 11:09:31 2024", "level": "DEBUG", "file": "server.c", "line": "44", "message": "Bind server socket to address", "activity": "bind_socket_address", "event": "start"}
+{"asctime": "Mon Oct 14 11:09:31 2024", "level": "INFO", "file": "server.c", "line": "51", "message": "Successfully bind server socket to address", "activity": "bind_socket_address", "event": "end"}
+{"asctime": "Mon Oct 14 11:09:31 2024", "level": "DEBUG", "file": "server.c", "line": "54", "message": "Listen for connections", "activity": "connections_listen", "event": "start"}
+{"asctime": "Mon Oct 14 11:09:31 2024", "level": "INFO", "file": "server.c", "line": "61", "message": "Successfully listen for connections", "activity": "connections_listen", "event": "end"}
+{"asctime": "Mon Oct 14 11:09:31 2024", "level": "INFO", "file": "server.c", "line": "64", "message": "Server is active and started listening", "activity": "server_listen", "event": "start"}
+{"asctime": "Mon Oct 14 11:09:31 2024", "level": "DEBUG", "file": "server.c", "line": "69", "message": "Accept connection", "activity": "accept_connection", "event": "start"}
+{"asctime": "Mon Oct 14 11:09:31 2024", "level": "INFO", "file": "server.c", "line": "77", "message": "Successfully accept connection", "activity": "accept_connection", "event": "end"}
+{"asctime": "Mon Oct 14 11:09:31 2024", "level": "DEBUG", "file": "server.c", "line": "83", "message": "Handle client in a separate thread", "activity": "handle_client_thread", "event": "start"}
+{"asctime": "Mon Oct 14 11:09:31 2024", "level": "INFO", "file": "server.c", "line": "95", "message": "Successfully Handle client in a separate thread", "activity": "handle_client_thread", "event": "end"}
+{"asctime": "Mon Oct 14 11:09:31 2024", "level": "DEBUG", "file": "server.c", "line": "69", "message": "Accept connection", "activity": "accept_connection", "event": "start"}

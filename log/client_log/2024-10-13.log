@@ -1,0 +1,6 @@
+{"asctime": "Sun Oct 13 16:10:45 2024", "level": "INFO", "file": "main_client.c", "line": "10", "message": "Create client socket", "activity": "create_client_socket", "event": "start"}
+{"asctime": "Sun Oct 13 16:10:45 2024", "level": "INFO", "file": "main_client.c", "line": "20", "message": "Successful client socket creation", "activity": "create_client_socket", "event": "end"}
+{"asctime": "Sun Oct 13 16:10:45 2024", "level": "INFO", "file": "main_client.c", "line": "23", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Sun Oct 13 16:10:45 2024", "level": "INFO", "file": "main_client.c", "line": "27", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Sun Oct 13 16:10:45 2024", "level": "INFO", "file": "main_client.c", "line": "30", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Sun Oct 13 16:10:45 2024", "level": "FATAL", "file": "main_client.c", "line": "32", "message": "Error while connecting to server", "activity": "connect_to_server", "event": "end"}

@@ -1,0 +1,146 @@
+{"asctime": "Thu Oct 17 12:17:47 2024", "level": "DEBUG", "file": "server.c", "line": "18", "message": "Create server socket", "activity": "server_socket_creation", "event": "start"}
+{"asctime": "Thu Oct 17 12:17:47 2024", "level": "INFO", "file": "server.c", "line": "26", "message": "Successfully created server socket", "activity": "server_socket_creation", "event": "end"}
+{"asctime": "Thu Oct 17 12:17:47 2024", "level": "INFO", "file": "server.c", "line": "29", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:17:47 2024", "level": "INFO", "file": "server.c", "line": "33", "message": "Set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:17:47 2024", "level": "DEBUG", "file": "server.c", "line": "36", "message": "Bind server socket to address", "activity": "bind_socket_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:17:47 2024", "level": "INFO", "file": "server.c", "line": "43", "message": "Successfully bind server socket to address", "activity": "bind_socket_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:17:47 2024", "level": "DEBUG", "file": "server.c", "line": "46", "message": "Listen for connections", "activity": "conections_listen", "event": "start"}
+{"asctime": "Thu Oct 17 12:17:47 2024", "level": "INFO", "file": "server.c", "line": "53", "message": "Successfully listen for connections", "activity": "conections_listen", "event": "end"}
+{"asctime": "Thu Oct 17 12:17:47 2024", "level": "INFO", "file": "server.c", "line": "56", "message": "Server is active and started listening", "activity": "server_listen", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:33 2024", "level": "DEBUG", "file": "server.c", "line": "18", "message": "Create server socket", "activity": "server_socket_creation", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:33 2024", "level": "INFO", "file": "server.c", "line": "26", "message": "Successfully created server socket", "activity": "server_socket_creation", "event": "end"}
+{"asctime": "Thu Oct 17 12:19:33 2024", "level": "INFO", "file": "server.c", "line": "29", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:33 2024", "level": "INFO", "file": "server.c", "line": "33", "message": "Set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:19:33 2024", "level": "DEBUG", "file": "server.c", "line": "36", "message": "Bind server socket to address", "activity": "bind_socket_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:33 2024", "level": "INFO", "file": "server.c", "line": "43", "message": "Successfully bind server socket to address", "activity": "bind_socket_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:19:33 2024", "level": "DEBUG", "file": "server.c", "line": "46", "message": "Listen for connections", "activity": "conections_listen", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:33 2024", "level": "INFO", "file": "server.c", "line": "53", "message": "Successfully listen for connections", "activity": "conections_listen", "event": "end"}
+{"asctime": "Thu Oct 17 12:19:33 2024", "level": "INFO", "file": "server.c", "line": "56", "message": "Server is active and started listening", "activity": "server_listen", "event": "start"}
+{"asctime": "Thu Oct 17 12:30:26 2024", "level": "DEBUG", "file": "server.c", "line": "18", "message": "Create server socket", "activity": "server_socket_creation", "event": "start"}
+{"asctime": "Thu Oct 17 12:30:26 2024", "level": "INFO", "file": "server.c", "line": "26", "message": "Successfully created server socket", "activity": "server_socket_creation", "event": "end"}
+{"asctime": "Thu Oct 17 12:30:26 2024", "level": "INFO", "file": "server.c", "line": "29", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:30:26 2024", "level": "INFO", "file": "server.c", "line": "33", "message": "Set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:30:26 2024", "level": "DEBUG", "file": "server.c", "line": "36", "message": "Bind server socket to address", "activity": "bind_socket_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:30:26 2024", "level": "INFO", "file": "server.c", "line": "43", "message": "Successfully bind server socket to address", "activity": "bind_socket_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:30:26 2024", "level": "DEBUG", "file": "server.c", "line": "46", "message": "Listen for connections", "activity": "conections_listen", "event": "start"}
+{"asctime": "Thu Oct 17 12:30:26 2024", "level": "INFO", "file": "server.c", "line": "53", "message": "Successfully listen for connections", "activity": "conections_listen", "event": "end"}
+{"asctime": "Thu Oct 17 12:30:26 2024", "level": "INFO", "file": "server.c", "line": "56", "message": "Server is active and started listening", "activity": "server_listen", "event": "start"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "DEBUG", "file": "authenticate.c", "line": "6", "message": "Aunthenticate client", "activity": "authenticate_client", "event": "start"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "authenticate.c", "line": "44", "message": "Successful client authentication", "activity": "authenticate_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "107", "message": "Authentication successful", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "121", "message": "earth|== Logged into chat ==", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "125", "message": "Broadcast message to all other clients", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "187", "message": "star|hi", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "190", "message": "Broadcast message to all other clients", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "187", "message": "earth|hello", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "190", "message": "Broadcast message to all other clients", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "187", "message": "earth|wanna be yours", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "190", "message": "Broadcast message to all other clients", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "187", "message": "earth|no u cant", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "190", "message": "Broadcast message to all other clients", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "187", "message": "earth|bye bye", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "190", "message": "Broadcast message to all other clients", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "187", "message": "star|sad", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "190", "message": "Broadcast message to all other clients", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "163", "message": "star|== Disconnected ==", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "handle_client.c", "line": "166", "message": "Broadcast message to all other clients", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "server.c", "line": "70", "message": "Successfully accept connection", "activity": "accept_conection", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "DEBUG", "file": "server.c", "line": "83", "message": "Handle client in a separate thread", "activity": "handle_client_thread", "event": "start"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "server.c", "line": "95", "message": "Successfully Handle client in a separate thread", "activity": "handle_client_{"asctime": "Thu Oct 17 15:55:28 2024", "level": "DEBUG", "file": "server.c", "line": "18", "message": "Create server socket", "activity": "server_socket_creation", "event": "start"}
+{"asctime": "Thu Oct 17 15:55:28 2024", "level": "INFO", "file": "server.c", "line": "26", "message": "Successfully created server socket", "activity": "server_socket_creation", "event": "end"}
+{"asctime": "Thu Oct 17 15:55:28 2024", "level": "INFO", "file": "server.c", "line": "29", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 15:55:28 2024", "level": "INFO", "file": "server.c", "line": "33", "message": "Set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 15:55:28 2024", "level": "DEBUG", "file": "server.c", "line": "36", "message": "Bind server socket to address", "activity": "bind_socket_address", "event": "start"}
+{"asctime": "Thu Oct 17 15:55:28 2024", "level": "INFO", "file": "server.c", "line": "43", "message": "Successfully bind server socket to address", "activity": "bind_socket_address", "event": "end"}
+{"asctime": "Thu Oct 17 15:55:28 2024", "level": "DEBUG", "file": "server.c", "line": "46", "message": "Listen for connections", "activity": "conections_listen", "event": "start"}
+{"asctime": "Thu Oct 17 15:55:28 2024", "level": "INFO", "file": "server.c", "line": "53", "message": "Successfully listen for connections", "activity": "conections_listen", "event": "end"}
+{"asctime": "Thu Oct 17 15:55:28 2024", "level": "INFO", "file": "server.c", "line": "56", "message": "Server is active and started listening", "activity": "server_listen", "event": "start"}
+{"asctime": "Thu Oct 17 15:58:33 2024", "level": "INFO", "file": "signal_handler.c", "line": "10", "message": "Server stopped listening", "activity": "server_listen", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:52 2024", "level": "DEBUG", "file": "authenticate.c", "line": "6", "message": "Aunthenticate client", "activity": "authenticate_client", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:52 2024", "level": "INFO", "file": "authenticate.c", "line": "44", "message": "Successful client authentication", "activity": "authenticate_client", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:52 2024", "level": "INFO", "file": "handle_client.c", "line": "107", "message": "Authentication successful", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:52 2024", "level": "INFO", "file": "handle_client.c", "line": "121", "message": "janu|== Logged into chat ==", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:52 2024", "level": "INFO", "file": "handle_client.c", "line": "125", "message": "Broadcast message to all other clients", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:52 2024", "level": "INFO", "file": "handle_client.c", "line": "187", "message": "janu|hi", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:52 2024", "level": "INFO", "file": "handle_client.c", "line": "190", "message": "Broadcast message to all other clients", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "DEBUG", "file": "handle_client.c", "line": "7", "message": "Handle client", "activity": "handle_client", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "DEBUG", "file": "handle_client.c", "line": "14", "message": "receiving username", "activity": "receive_username", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "INFO", "file": "handle_client.c", "line": "22", "message": "Successfully received username", "activity": "receive_username", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "DEBUG", "file": "handle_client.c", "line": "25", "message": "receiving password", "activity": "receive_password", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "INFO", "file": "handle_client.c", "line": "33", "message": "Successfully received password", "activity": "receive_password", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "DEBUG", "file": "handle_client.c", "line": "37", "message": "receiving choice", "activity": "receive_choice", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "INFO", "file": "handle_client.c", "line": "44", "message": "Successfully received choice", "activity": "receive_choice", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:35 2024", "level": "DEBUG", "file": "auth.c", "line": "65", "message": "Register client", "activity": "register_client", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:35 2024", "level": "INFO", "file": "auth.c", "line": "78", "message": "Successfully registered the client", "activity": "register_client", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:35 2024", "level": "INFO", "file": "handle_client.c", "line": "83", "message": "Registration successful", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:35 2024", "level": "INFO", "file": "server.c", "line": "70", "message": "Successfully accept connection", "activity": "accept_conection", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:35 2024", "level": "DEBUG", "file": "server.c", "line": "83", "message": "Handle client in a separate thread", "activity": "handle_client_thread", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:35 2024", "level": "INFO", "file": "server.c", "line": "95", "message": "Successfully Handle client in a separate thread", "activity": "handle_client_thread", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:35 2024", "level": "DEBUG", "file": "server.c", "line": "62", "message": "Accept connection", "activity": "accept_conection", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "DEBUG", "file": "handle_client.c", "line": "7", "message": "Handle client", "activity": "handle_client", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "DEBUG", "file": "handle_client.c", "line": "14", "message": "receiving username", "activity": "receive_username", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "INFO", "file": "handle_client.c", "line": "22", "message": "Successfully received username", "activity": "receive_username", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "DEBUG", "file": "handle_client.c", "line": "25", "message": "receiving password", "activity": "receive_password", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "INFO", "file": "handle_client.c", "line": "33", "message": "Successfully received password", "activity": "receive_password", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "DEBUG", "file": "handle_client.c", "line": "37", "message": "receiving choice", "activity": "receive_choice", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "INFO", "file": "handle_client.c", "line": "44", "message": "Successfully received choice", "activity": "receive_choice", "event": "end"}
+{"asctime": "Thu Oct 17 15:59:31 2024", "level": "DEBUG", "file": "server.c", "line": "18", "message": "Create server socket", "activity": "server_socket_creation", "event": "start"}
+{"asctime": "Thu Oct 17 15:59:31 2024", "level": "INFO", "file": "server.c", "line": "26", "message": "Successfully created server socket", "activity": "server_socket_creation", "event": "end"}
+{"asctime": "Thu Oct 17 15:59:31 2024", "level": "INFO", "file": "server.c", "line": "29", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 15:59:31 2024", "level": "INFO", "file": "server.c", "line": "33", "message": "Set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 15:59:31 2024", "level": "DEBUG", "file": "server.c", "line": "36", "message": "Bind server socket to address", "activity": "bind_socket_address", "event": "start"}
+{"asctime": "Thu Oct 17 15:59:31 2024", "level": "FATAL", "file": "server.c", "line": "38", "message": "Error bind server socket to address", "activity": "bind_socket_address", "event": "end"}
+{"asctime": "Thu Oct 17 15:59:53 2024", "level": "DEBUG", "file": "server.c", "line": "18", "message": "Create server socket", "activity": "server_socket_creation", "event": "start"}
+{"asctime": "Thu Oct 17 15:59:53 2024", "level": "INFO", "file": "server.c", "line": "26", "message": "Successfully created server socket", "activity": "server_socket_creation", "event": "end"}
+{"asctime": "Thu Oct 17 15:59:53 2024", "level": "INFO", "file": "server.c", "line": "29", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 15:59:53 2024", "level": "INFO", "file": "server.c", "line": "33", "message": "Set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 15:59:53 2024", "level": "DEBUG", "file": "server.c", "line": "36", "message": "Bind server socket to address", "activity": "bind_socket_address", "event": "start"}
+{"asctime": "Thu Oct 17 15:59:53 2024", "level": "INFO", "file": "server.c", "line": "43", "message": "Successfully bind server socket to address", "activity": "bind_socket_address", "event": "end"}
+{"asctime": "Thu Oct 17 15:59:53 2024", "level": "DEBUG", "file": "server.c", "line": "46", "message": "Listen for connections", "activity": "conections_listen", "event": "start"}
+{"asctime": "Thu Oct 17 15:59:53 2024", "level": "INFO", "file": "server.c", "line": "53", "message": "Successfully listen for connections", "activity": "conections_listen", "event": "end"}
+{"asctime": "Thu Oct 17 15:59:53 2024", "level": "INFO", "file": "server.c", "line": "56", "message": "Server is active and started listening", "activity": "server_listen", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:36 2024", "level": "INFO", "file": "signal_handler.c", "line": "10", "message": "Server stopped listening", "activity": "server_listen", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:30 2024", "level": "DEBUG", "file": "authenticate.c", "line": "6", "message": "Aunthenticate client", "activity": "authenticate_client", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:30 2024", "level": "INFO", "file": "authenticate.c", "line": "44", "message": "Successful client authentication", "activity": "authenticate_client", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:30 2024", "level": "INFO", "file": "handle_client.c", "line": "107", "message": "Authentication successful", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:30 2024", "level": "INFO", "file": "handle_client.c", "line": "121", "message": "ha|== Logged into chat ==", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:30 2024", "level": "INFO", "file": "handle_client.c", "line": "125", "message": "Broadcast message to all other clients", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "DEBUG", "file": "handle_client.c", "line": "7", "message": "Handle client", "activity": "handle_client", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "DEBUG", "file": "handle_client.c", "line": "14", "message": "receiving username", "activity": "receive_username", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "INFO", "file": "handle_client.c", "line": "22", "message": "Successfully received username", "activity": "receive_username", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "DEBUG", "file": "handle_client.c", "line": "25", "message": "receiving password", "activity": "receive_password", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "INFO", "file": "handle_client.c", "line": "33", "message": "Successfully received password", "activity": "receive_password", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "DEBUG", "file": "handle_client.c", "line": "37", "message": "receiving choice", "activity": "receive_choice", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "INFO", "file": "handle_client.c", "line": "44", "message": "Successfully received choice", "activity": "receive_choice", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:22 2024", "level": "DEBUG", "file": "auth.c", "line": "65", "message": "Register client", "activity": "register_client", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:22 2024", "level": "INFO", "file": "auth.c", "line": "78", "message": "Successfully registered the client", "activity": "register_client", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:22 2024", "level": "INFO", "file": "handle_client.c", "line": "83", "message": "Registration successful", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:22 2024", "level": "INFO", "file": "server.c", "line": "70", "message": "Successfully accept connection", "activity": "accept_conection", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:22 2024", "level": "DEBUG", "file": "server.c", "line": "83", "message": "Handle client in a separate thread", "activity": "handle_client_thread", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:22 2024", "level": "INFO", "file": "server.c", "line": "95", "message": "Successfully Handle client in a separate thread", "activity": "handle_client_thread", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:22 2024", "level": "DEBUG", "file": "server.c", "line": "62", "message": "Accept connection", "activity": "accept_conection", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "DEBUG", "file": "handle_client.c", "line": "7", "message": "Handle client", "activity": "handle_client", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "DEBUG", "file": "handle_client.c", "line": "14", "message": "receiving username", "activity": "receive_username", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "INFO", "file": "handle_client.c", "line": "22", "message": "Successfully received username", "activity": "receive_username", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "DEBUG", "file": "handle_client.c", "line": "25", "message": "receiving password", "activity": "receive_password", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "INFO", "file": "handle_client.c", "line": "33", "message": "Successfully received password", "activity": "receive_password", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "DEBUG", "file": "handle_client.c", "line": "37", "message": "receiving choice", "activity": "receive_choice", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "INFO", "file": "handle_client.c", "line": "44", "message": "Successfully received choice", "activity": "receive_choice", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:13 2024", "level": "DEBUG", "file": "authenticate.c", "line": "6", "message": "Aunthenticate client", "activity": "authenticate_client", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:13 2024", "level": "INFO", "file": "authenticate.c", "line": "44", "message": "Successful client authentication", "activity": "authenticate_client", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:13 2024", "level": "INFO", "file": "handle_client.c", "line": "107", "message": "Authentication successful", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:13 2024", "level": "INFO", "file": "handle_client.c", "line": "121", "message": "janu|== Logged into chat ==", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:13 2024", "level": "INFO", "file": "handle_client.c", "line": "125", "message": "Broadcast message to all other clients", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:13 2024", "level": "INFO", "file": "handle_client.c", "line": "163", "message": "janu|== Disconnected ==", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:13 2024", "level": "INFO", "file": "handle_client.c", "line": "166", "message": "Broadcast message to all other clients", "activity": "handle_client", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:13 2024", "level": "INFO", "file": "server.c", "line": "70", "message": "Successfully accept connection", "activity": "accept_conection", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:13 2024", "level": "DEBUG", "file": "server.c", "line": "83", "message": "Handle client in a separate thread", "activity": "handle_client_thread", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:13 2024", "level": "INFO", "file": "server.c", "line": "95", "message": "Successfully Handle client in a separate thread", "activity": "handle_client_thread", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:13 2024", "level": "DEBUG", "file": "server.c", "line": "62", "message": "Accept connection", "activity": "accept_conection", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "DEBUG", "file": "handle_client.c", "line": "7", "message": "Handle client", "activity": "handle_client", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "DEBUG", "file": "handle_client.c", "line": "14", "message": "receiving username", "activity": "receive_username", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "INFO", "file": "handle_client.c", "line": "22", "message": "Successfully received username", "activity": "receive_username", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "DEBUG", "file": "handle_client.c", "line": "25", "message": "receiving password", "activity": "receive_password", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "INFO", "file": "handle_client.c", "line": "33", "message": "Successfully received password", "activity": "receive_password", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "DEBUG", "file": "handle_client.c", "line": "37", "message": "receiving choice", "activity": "receive_choice", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "INFO", "file": "handle_client.c", "line": "44", "message": "Successfully received choice", "activity": "receive_choice", "event": "end"}

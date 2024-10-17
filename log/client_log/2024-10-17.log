@@ -1,0 +1,365 @@
+{"asctime": "Thu Oct 17 12:12:32 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 12:12:32 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 12:12:32 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:12:32 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:12:32 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 12:12:32 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:12:32 2024", "level": "INFO", "file": "client.c", "line": "62", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 12:12:32 2024", "level": "INFO", "file": "client.c", "line": "71", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 12:12:32 2024", "level": "INFO", "file": "client.c", "line": "73", "message": "Send aunthentication choice (register) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 12:12:32 2024", "level": "DEBUG", "file": "client.c", "line": "76", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 12:12:32 2024", "level": "INFO", "file": "client.c", "line": "85", "message": "Successfully register as new client", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 12:13:20 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 12:13:20 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 12:13:20 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:13:20 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:13:20 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 12:13:20 2024", "level": "FATAL", "file": "client.c", "line": "30", "message": "Error while setting server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:13:39 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 12:13:39 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 12:13:39 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:13:39 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:13:39 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 12:13:39 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:13:39 2024", "level": "INFO", "file": "client.c", "line": "62", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 12:13:39 2024", "level": "INFO", "file": "client.c", "line": "71", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 12:13:39 2024", "level": "INFO", "file": "client.c", "line": "73", "message": "Send aunthentication choice (register) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 12:13:39 2024", "level": "DEBUG", "file": "client.c", "line": "76", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 12:13:39 2024", "level": "INFO", "file": "client.c", "line": "85", "message": "Successfully register as new client", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 12:13:57 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 12:13:57 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 12:13:57 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:13:57 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:13:57 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 12:13:57 2024", "level": "FATAL", "file": "client.c", "line": "30", "message": "Error while setting server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:17:58 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 12:17:58 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 12:17:58 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:17:58 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:17:58 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 12:17:58 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:17:58 2024", "level": "INFO", "file": "client.c", "line": "62", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 12:17:58 2024", "level": "INFO", "file": "client.c", "line": "71", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 12:17:58 2024", "level": "INFO", "file": "client.c", "line": "73", "message": "Send aunthentication choice (register) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 12:17:58 2024", "level": "DEBUG", "file": "client.c", "line": "76", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 12:17:58 2024", "level": "INFO", "file": "client.c", "line": "85", "message": "Successfully register as new client", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 12:19:41 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:41 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 12:19:41 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:41 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:19:41 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:41 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:19:41 2024", "level": "INFO", "file": "client.c", "line": "62", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:41 2024", "level": "INFO", "file": "client.c", "line": "71", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:41 2024", "level": "INFO", "file": "client.c", "line": "73", "message": "Send aunthentication choice (register) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:41 2024", "level": "DEBUG", "file": "client.c", "line": "76", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:41 2024", "level": "INFO", "file": "client.c", "line": "85", "message": "Successfully register as new client", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 12:19:53 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:53 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 12:19:53 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:53 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:19:53 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:53 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:19:53 2024", "level": "INFO", "file": "client.c", "line": "97", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:53 2024", "level": "INFO", "file": "client.c", "line": "107", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:53 2024", "level": "INFO", "file": "client.c", "line": "109", "message": "Send aunthentication choice (login) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:53 2024", "level": "DEBUG", "file": "client.c", "line": "112", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:53 2024", "level": "INFO", "file": "client.c", "line": "130", "message": "Successfully authenticated", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 12:19:53 2024", "level": "DEBUG", "file": "client.c", "line": "133", "message": "Create a thread to receive messages from the server", "activity": "receive_messages", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:53 2024", "level": "INFO", "file": "client.c", "line": "144", "message": "Successfully created a thread to receive messages from the server", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:19:53 2024", "level": "DEBUG", "file": "client.c", "line": "147", "message": "Send messages to the server", "activity": "send_messages", "event": "start"}
+{"asctime": "Thu Oct 17 12:19:53 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "receive_messages.c", "line": "9", "message": "Receive messages", "activity": "receive_messages", "event": "start"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:20:01 2024", "level": "FATAL", "file": "receive_messages.c", "line": "20", "message": "Error while receiving messages", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:33:28 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 12:33:28 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 12:33:28 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:33:28 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:33:28 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 12:33:28 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:33:28 2024", "level": "INFO", "file": "client.c", "line": "62", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 12:33:28 2024", "level": "INFO", "file": "client.c", "line": "71", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 12:33:28 2024", "level": "INFO", "file": "client.c", "line": "73", "message": "Send aunthentication choice (register) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 12:33:28 2024", "level": "DEBUG", "file": "client.c", "line": "76", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 12:33:28 2024", "level": "INFO", "file": "client.c", "line": "85", "message": "Successfully register as new client", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 12:33:43 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 12:33:43 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 12:33:43 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:33:43 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:33:43 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 12:33:43 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:33:43 2024", "level": "INFO", "file": "client.c", "line": "62", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 12:33:43 2024", "level": "INFO", "file": "client.c", "line": "71", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 12:33:43 2024", "level": "INFO", "file": "client.c", "line": "73", "message": "Send aunthentication choice (register) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 12:33:43 2024", "level": "DEBUG", "file": "client.c", "line": "76", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 12:33:43 2024", "level": "ERROR", "file": "client.c", "line": "80", "message": "Username already exists", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:17 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:17 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:17 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:17 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:17 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:17 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:17 2024", "level": "INFO", "file": "client.c", "line": "97", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:17 2024", "level": "INFO", "file": "client.c", "line": "107", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:17 2024", "level": "INFO", "file": "client.c", "line": "109", "message": "Send aunthentication choice (login) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:17 2024", "level": "DEBUG", "file": "client.c", "line": "112", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:17 2024", "level": "INFO", "file": "client.c", "line": "130", "message": "Successfully authenticated", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:17 2024", "level": "DEBUG", "file": "client.c", "line": "133", "message": "Create a thread to receive messages from the server", "activity": "receive_messages", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:17 2024", "level": "INFO", "file": "client.c", "line": "144", "message": "Successfully created a thread to receive messages from the server", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:17 2024", "level": "DEBUG", "file": "client.c", "line": "147", "message": "Send messages to the server", "activity": "send_messages", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:17 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:25 2024", "level": "INFO", "file": "receive_messages.c", "line": "9", "message": "Receive messages", "activity": "receive_messages", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:25 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:45 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:45 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:45 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:45 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:45 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:45 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:25 2024", "level": "INFO", "file": "receive_messages.c", "line": "32", "message": "Message received", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:45 2024", "level": "INFO", "file": "client.c", "line": "97", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:45 2024", "level": "INFO", "file": "client.c", "line": "107", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:45 2024", "level": "INFO", "file": "client.c", "line": "109", "message": "Send aunthentication choice (login) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:45 2024", "level": "DEBUG", "file": "client.c", "line": "112", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:45 2024", "level": "ERROR", "file": "client.c", "line": "126", "message": "Username already exists", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:45 2024", "level": "ERROR", "file": "client.c", "line": "47", "message": "Error aunthentication choice to server, choice has multiple characters", "activity": "send_auth_choice", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:45 2024", "level": "ERROR", "file": "client.c", "line": "47", "message": "Error aunthentication choice to server, choice has multiple characters", "activity": "send_auth_choice", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:27 2024", "level": "INFO", "file": "signal_handler.c", "line": "5", "message": "Logout from client side", "activity": "client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:32 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 12:35:32 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:32 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:35:32 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:32 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 12:35:32 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:25 2024", "level": "INFO", "file": "receive_messages.c", "line": "32", "message": "Message received", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:32 2024", "level": "INFO", "file": "client.c", "line": "97", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 12:35:32 2024", "level": "INFO", "file": "client.c", "line": "107", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 12:35:32 2024", "level": "INFO", "file": "client.c", "line": "109", "message": "Send aunthentication choice (login) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 12:35:32 2024", "level": "DEBUG", "file": "client.c", "line": "112", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 12:35:32 2024", "level": "INFO", "file": "client.c", "line": "130", "message": "Successfully authenticated", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:32 2024", "level": "DEBUG", "file": "client.c", "line": "133", "message": "Create a thread to receive messages from the server", "activity": "receive_messages", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:25 2024", "level": "INFO", "file": "receive_messages.c", "line": "32", "message": "Message received", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:32 2024", "level": "INFO", "file": "client.c", "line": "144", "message": "Successfully created a thread to receive messages from the server", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:32 2024", "level": "DEBUG", "file": "client.c", "line": "147", "message": "Send messages to the server", "activity": "send_messages", "event": "start"}
+{"asctime": "Thu Oct 17 12:35:32 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "receive_messages.c", "line": "9", "message": "Receive messages", "activity": "receive_messages", "event": "start"}
+{"asctime": "Thu Oct 17 12:34:25 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "receive_messages.c", "line": "32", "message": "Message received", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:25 2024", "level": "INFO", "file": "receive_messages.c", "line": "32", "message": "Message received", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:25 2024", "level": "INFO", "file": "receive_messages.c", "line": "32", "message": "Message received", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:25 2024", "level": "INFO", "file": "receive_messages.c", "line": "32", "message": "Message received", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:25 2024", "level": "INFO", "file": "receive_messages.c", "line": "32", "message": "Message received", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:34:25 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "receive_messages.c", "line": "32", "message": "Message received", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:36:50 2024", "level": "INFO", "file": "signal_handler.c", "line": "5", "message": "Logout from client side", "activity": "client", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "receive_messages.c", "line": "32", "message": "Message received", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:36:55 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 12:36:55 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 12:36:55 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:36:55 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:36:55 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 12:36:55 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "receive_messages.c", "line": "32", "message": "Message received", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:36:55 2024", "level": "INFO", "file": "client.c", "line": "62", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 12:36:55 2024", "level": "INFO", "file": "client.c", "line": "71", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 12:36:55 2024", "level": "INFO", "file": "client.c", "line": "73", "message": "Send aunthentication choice (register) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 12:36:55 2024", "level": "DEBUG", "file": "client.c", "line": "76", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 12:36:55 2024", "level": "INFO", "file": "client.c", "line": "85", "message": "Successfully register as new client", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 12:37:10 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 12:37:10 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 12:37:10 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 12:37:10 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:37:10 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 12:37:10 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "receive_messages.c", "line": "32", "message": "Message received", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:37:10 2024", "level": "INFO", "file": "client.c", "line": "62", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 12:37:10 2024", "level": "INFO", "file": "client.c", "line": "71", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 12:37:10 2024", "level": "INFO", "file": "client.c", "line": "73", "message": "Send aunthentication choice (register) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 12:37:10 2024", "level": "DEBUG", "file": "client.c", "line": "76", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 12:37:10 2024", "level": "ERROR", "file": "client.c", "line": "80", "message": "Username already exists", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 12:35:51 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "INFO", "file": "client.c", "line": "62", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "INFO", "file": "client.c", "line": "71", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "INFO", "file": "client.c", "line": "73", "message": "Send aunthentication choice (register) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "DEBUG", "file": "client.c", "line": "76", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:28 2024", "level": "INFO", "file": "client.c", "line": "85", "message": "Successfully register as new client", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "INFO", "file": "client.c", "line": "97", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "INFO", "file": "client.c", "line": "107", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "INFO", "file": "client.c", "line": "109", "message": "Send aunthentication choice (login) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "DEBUG", "file": "client.c", "line": "112", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "INFO", "file": "client.c", "line": "130", "message": "Successfully authenticated", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "DEBUG", "file": "client.c", "line": "133", "message": "Create a thread to receive messages from the server", "activity": "receive_messages", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "INFO", "file": "client.c", "line": "144", "message": "Successfully created a thread to receive messages from the server", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "DEBUG", "file": "client.c", "line": "147", "message": "Send messages to the server", "activity": "send_messages", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:44 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:52 2024", "level": "INFO", "file": "receive_messages.c", "line": "9", "message": "Receive messages", "activity": "receive_messages", "event": "start"}
+{"asctime": "Thu Oct 17 15:57:52 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 15:57:52 2024", "level": "FATAL", "file": "receive_messages.c", "line": "20", "message": "Error while receiving messages", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "INFO", "file": "client.c", "line": "97", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "INFO", "file": "client.c", "line": "107", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "INFO", "file": "client.c", "line": "109", "message": "Send aunthentication choice (login) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "DEBUG", "file": "client.c", "line": "112", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "INFO", "file": "client.c", "line": "130", "message": "Successfully authenticated", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "DEBUG", "file": "client.c", "line": "133", "message": "Create a thread to receive messages from the server", "activity": "receive_messages", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "INFO", "file": "client.c", "line": "144", "message": "Successfully created a thread to receive messages from the server", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "DEBUG", "file": "client.c", "line": "147", "message": "Send messages to the server", "activity": "send_messages", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:04 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:13 2024", "level": "INFO", "file": "receive_messages.c", "line": "9", "message": "Receive messages", "activity": "receive_messages", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:16 2024", "level": "INFO", "file": "signal_handler.c", "line": "5", "message": "Logout from client side", "activity": "client", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "INFO", "file": "client.c", "line": "62", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "INFO", "file": "client.c", "line": "71", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "INFO", "file": "client.c", "line": "73", "message": "Send aunthentication choice (register) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "DEBUG", "file": "client.c", "line": "76", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:18 2024", "level": "INFO", "file": "client.c", "line": "85", "message": "Successfully register as new client", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "INFO", "file": "client.c", "line": "10", "message": "Create client socket", "activity": "create_clent_socket", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "INFO", "file": "client.c", "line": "18", "message": "Successful client socket creation", "activity": "create_clent_socket", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "INFO", "file": "client.c", "line": "21", "message": "Set server address", "activity": "set_server_address", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "INFO", "file": "client.c", "line": "25", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "INFO", "file": "client.c", "line": "28", "message": "Connect to server", "activity": "connect_to_server", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "INFO", "file": "client.c", "line": "35", "message": "Successfully set server address", "activity": "set_server_address", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "INFO", "file": "client.c", "line": "97", "message": "Send client encrypted username to server", "activity": "send_username", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "INFO", "file": "client.c", "line": "107", "message": "Send client encrypted password to server", "activity": "send_password", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "INFO", "file": "client.c", "line": "109", "message": "Send aunthentication choice (login) to server", "activity": "send_auth_choice", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "DEBUG", "file": "client.c", "line": "112", "message": "Handle server response", "activity": "handle_response", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "INFO", "file": "client.c", "line": "130", "message": "Successfully authenticated", "activity": "handle_response", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "DEBUG", "file": "client.c", "line": "133", "message": "Create a thread to receive messages from the server", "activity": "receive_messages", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "INFO", "file": "client.c", "line": "144", "message": "Successfully created a thread to receive messages from the server", "activity": "receive_messages", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "DEBUG", "file": "client.c", "line": "147", "message": "Send messages to the server", "activity": "send_messages", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:25 2024", "level": "INFO", "file": "client.c", "line": "158", "message": "Successfully send messages to the server", "activity": "send_messages", "event": "end"}
+{"asctime": "Thu Oct 17 16:00:30 2024", "level": "INFO", "file": "receive_messages.c", "line": "9", "message": "Receive messages", "activity": "receive_messages", "event": "start"}
+{"asctime": "Thu Oct 17 16:00:30 2024", "level": "FATAL", "file": "receive_messages.c", "line": "20", "message": "Error while receiving messages", "activity": "receive_messages", "event": "end"}
